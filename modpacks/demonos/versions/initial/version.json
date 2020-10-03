@@ -2,8 +2,6 @@
     "name": "v1.0 (Inicial)",
     "decription": "Descarga inicial. Puede tardar más de lo habitual debido a ello",
     "released": "27 (como Comando27) de Septiembre de 2020",
-    "additions":[
-        "data*",
-        "test.txt"
-    ]
+    "deletions": [],
+    "depend": []
 }
