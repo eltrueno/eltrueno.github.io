@@ -113,7 +113,7 @@ for(var count =1; count<11;count++){
     if(document.querySelector("input").value=="27"){
       document.querySelector("h2").innerHTML = "Correcto";
       document.querySelector("div").classList.add("animated","bounceOut");
-      window.location.href = "http://rauljimenezgal.me/cmVnYWxvX2Nhcmxvc19jdW1wbGVfMjAyMQ==/cmVnYWxva2V5.html";
+      window.location.href = "http://eltrueno.github.io/cmVnYWxvX2Nhcmxvc19jdW1wbGVfMjAyMQ==/cmVnYWxva2V5.html";
     }else{
       document.querySelector("h2").innerHTML = "Nope :c";
       document.getElementById("field").value = "";
