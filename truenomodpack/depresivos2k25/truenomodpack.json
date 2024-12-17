@@ -1,0 +1,13 @@
+{
+  "id": "depresivos2k25",
+  "name": "DEPresivos 2K25",
+  "description": "Modpack fabric version 1.19.4",
+  "version": 0,
+  "versions": [
+    {
+      "string": "1.0",
+      "description": "Initial",
+      "download": "https://www.url-to-download.com/"
+    }
+  ]
+}
