@@ -1,7 +1,7 @@
 {
   "id": "depresivos2k25",
   "name": "DEPresivos 2K25",
-  "description": "Modpack fabric version 1.19.4"
+  "description": "Modpack fabric version 1.19.4",
   "version": 1,
   "versions": {
     "1": { "string": "v1.0.0", "description": "Primera versión" }
@@ -10,7 +10,7 @@
   "loader": "fabric",
   "loader_version": "0.16.10",
   "files": {
-    "test.txt": {
+    ".test.txt": {
       "hash": "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
       "size": 4,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1/test.txt",
