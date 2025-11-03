@@ -14,6 +14,1992 @@
       "hash": "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
       "size": 4,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1/test.txt",
+      "required": false
+    }
+    "config/craftpresence.json": {
+      "hash": "sha256:2d1842fc1720e64f5100d8d2a343d05c70c6cbe5a7eb90aaed460317251bfc33",
+      "size": 4549,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/craftpresence.json",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/1.png": {
+      "hash": "sha256:d98fcb90af5b50d4d7381a60a632072263d97b60aa80f0e6c4d3f4748c128d8b",
+      "size": 380860,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/1.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/10.png": {
+      "hash": "sha256:c87a6ea011e538933999f3d1b532d6f0a43397420d371b71d76ee39481203ffd",
+      "size": 530941,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/10.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/100.png": {
+      "hash": "sha256:96e27c3b80dbfb268a94fdae5778ae502a48b1771ee6018295b490dad1f99ac7",
+      "size": 640019,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/100.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/101.png": {
+      "hash": "sha256:17d248fdb858daa0ae50f8bedfffe60f2b60c321ccb3d166a7f216b50f4535b3",
+      "size": 642918,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/101.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/102.png": {
+      "hash": "sha256:3b292e7b1793c25e4f8a47ae1b7507b08d26f1dae1adf7338467b2875ebb6ecf",
+      "size": 648135,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/102.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/103.png": {
+      "hash": "sha256:519f7d56a48f69317eeb916a73ee4aeebf8eee503d78c2ab63104593a5ee2934",
+      "size": 643307,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/103.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/104.png": {
+      "hash": "sha256:a3836bfd44bd15f91924968b4c232f91809c9cad9fc68eba2b8699e3413d4580",
+      "size": 650502,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/104.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/105.png": {
+      "hash": "sha256:b7686c6aa9b6f6f6c542cddf2faa853057726d564f09c220fb0c08406430a646",
+      "size": 657502,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/105.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/106.png": {
+      "hash": "sha256:7f43eaaaa4c6c8397694e5810204eba9dd2f084d2dcae3623f30e3123367b8e9",
+      "size": 660811,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/106.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/107.png": {
+      "hash": "sha256:695da000f3e6d912511bf41da2ac54c6cc3a0eb4697e0cc2071639b140b6d27d",
+      "size": 658485,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/107.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/108.png": {
+      "hash": "sha256:95ece0119276c207d7f3e57dc81d2f9ba5c3e964831394bf10ef8fb052c5f5b5",
+      "size": 665446,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/108.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/109.png": {
+      "hash": "sha256:ec5f8a8b7f270cb03dde5c8612d7784a259a22111a4a95a69096155bce489594",
+      "size": 663360,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/109.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/11.png": {
+      "hash": "sha256:c826fdbe0f40816fd8f58541c274ede0915d0564bdf0bec5d97c9beb6aba331d",
+      "size": 548388,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/11.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/110.png": {
+      "hash": "sha256:86e9631817ab204c77cf0278087d8e69fa5852461cfd79defc055902bbb575d1",
+      "size": 672577,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/110.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/111.png": {
+      "hash": "sha256:a0a26a011196f61bc901fcee067b728cfa918f193948df181fd7f61213f85ee0",
+      "size": 665379,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/111.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/112.png": {
+      "hash": "sha256:a5b889c7b318219de7b0c308dd877d9ae8628a30c4ca1493ded937fa0fddf839",
+      "size": 669059,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/112.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/113.png": {
+      "hash": "sha256:db9a9a94f5f541b9d0a5d6b22250d08df85ad5f861101049456dc661dc6d164d",
+      "size": 676386,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/113.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/114.png": {
+      "hash": "sha256:b9bdd92e78e7108cbdf9e345feb3eb45e0692ab48c8baccc8e80a376a322dc44",
+      "size": 677753,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/114.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/115.png": {
+      "hash": "sha256:819810e5b508b7fbbd92f7526671dca8bca537ca811d4a85db7c1ad7fae88ebf",
+      "size": 676674,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/115.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/116.png": {
+      "hash": "sha256:be362ae3690a7812b48866216f18311c5ce7e66b17d577cb22928912d4043ca8",
+      "size": 680691,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/116.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/117.png": {
+      "hash": "sha256:122217c9a141ff73ebfc5ce9e2cef535942279ea5aa847393f882bf0fc08fcec",
+      "size": 682561,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/117.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/118.png": {
+      "hash": "sha256:48ab956d696776a8f38c263042549888c08a8fb3f756e56e5e3538c9f1a91111",
+      "size": 682695,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/118.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/119.png": {
+      "hash": "sha256:3920158e1f72bf97a9415cbc97df4dd0fbe707487bb41e91585b76a3b32d39d1",
+      "size": 677957,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/119.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/12.png": {
+      "hash": "sha256:19b4572170bc7f4ca05ee2f38ba5cf297498eb0193cf7f44e3a5f31813ed97f4",
+      "size": 573923,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/12.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/120.png": {
+      "hash": "sha256:127959a02a2a955a112d4e8a7f784bd99dea9c301b98e7e748af7acb9cf79e54",
+      "size": 685242,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/120.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/121.png": {
+      "hash": "sha256:46e671186214eadb036184af6751b237b39857725ea8a97b83854a2a53d2ac05",
+      "size": 584340,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/121.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/122.png": {
+      "hash": "sha256:a1f321d38c2f68a24ec9530eddd61f329a597042fc9880e02512ff041348d506",
+      "size": 591764,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/122.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/123.png": {
+      "hash": "sha256:1943da7230b3f08cea1696c3722513ebded675667d0fcfd75f1c622af3f215d9",
+      "size": 596617,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/123.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/124.png": {
+      "hash": "sha256:549059ae213a8993bd5d3ac5dcd5798b8af43d53e5b663b536976767ab0f1b32",
+      "size": 597309,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/124.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/125.png": {
+      "hash": "sha256:0e2f53cc93b9f2c73c64de71141bbc98b9cf0d39dc38dd7b9bc10e5eaa5f39c1",
+      "size": 608363,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/125.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/126.png": {
+      "hash": "sha256:cc9c56f0b43d36ed6e96cc02fb8d3f6aaaa923c19a7c17e8c9bce3bae588a2a9",
+      "size": 613654,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/126.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/127.png": {
+      "hash": "sha256:f061c5b3315d8a8956e0e50f28940a6052e56bf0bb45102b3accff61f4e56d13",
+      "size": 616339,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/127.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/128.png": {
+      "hash": "sha256:c6e7a1ca634b42169483fdbd79a7c710dc0a334a4daebd331dc1e5d2937f6ab3",
+      "size": 620611,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/128.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/129.png": {
+      "hash": "sha256:e1cb75ee720b29e38b4eb08e420d42af91282fc34a163bd781e0fd994ec31c71",
+      "size": 652102,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/129.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/13.png": {
+      "hash": "sha256:215c6506f3113d9164d54452fa39acc4e9fc06cee35c81f80dd121f7d01c11f8",
+      "size": 609303,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/13.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/130.png": {
+      "hash": "sha256:7163f94a51aa486b62d944240e6da7d5026e64648379baf17a981ddd0eeaf4ad",
+      "size": 648454,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/130.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/131.png": {
+      "hash": "sha256:8cfc9a483ded0d9882ca522185c2d3c742c39e5a6d5ce11bc71c43937bcde59d",
+      "size": 651826,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/131.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/132.png": {
+      "hash": "sha256:4145eace8498b404bbdd83d8f16c220253447b4444a516963220838becea58c5",
+      "size": 646405,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/132.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/133.png": {
+      "hash": "sha256:6db25f0abb976a70cc10cc9c86673d885743941e7bcf9717a95fd2470c7165f0",
+      "size": 653339,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/133.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/134.png": {
+      "hash": "sha256:64525affe465513d4e5f136fc27ef03f86d536452e811d205535265191b090e5",
+      "size": 655398,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/134.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/135.png": {
+      "hash": "sha256:869800cf142dc199135035ca40bc525d0c37ea0ac1fd254af8021777dd8448cf",
+      "size": 657980,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/135.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/136.png": {
+      "hash": "sha256:45e6d60195aac4ab48a59a2034f1ab5f0c6014cbd24017e02297f266f87f4702",
+      "size": 659039,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/136.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/137.png": {
+      "hash": "sha256:91e746b3d9d49cf8c2f733076515f1e7fb3e844edd457c381cd13469cf30ebd4",
+      "size": 662828,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/137.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/138.png": {
+      "hash": "sha256:05fb0b10aca0df4425f3530e5ac77df68cc895ff121a7249ebaf03c1d115ba47",
+      "size": 665693,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/138.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/139.png": {
+      "hash": "sha256:c55f22b032a5250bed5902da62271bf37dedeb97648f03d460944e91b3acbda2",
+      "size": 673778,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/139.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/14.png": {
+      "hash": "sha256:7ab2ede5fcc97f027e6f6bcfdee54bdcfcc20d8877756d9a03ead45b7068022b",
+      "size": 623406,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/14.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/140.png": {
+      "hash": "sha256:9fcc83430857e011fd3562f3669b2e85b349e9aa212d27e2dd218c424a55114a",
+      "size": 667088,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/140.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/141.png": {
+      "hash": "sha256:c5aa26bbe9c466357e4515d73862b4b4f235ca7456369d4402ff85ea3da20759",
+      "size": 676769,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/141.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/142.png": {
+      "hash": "sha256:a7972e55e1d87533c3ad19d777a89f2b44f18e44738153fede21fb4dfa46765b",
+      "size": 680512,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/142.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/143.png": {
+      "hash": "sha256:6c38a2ac20803584d582477352470d3c17c728c922abe9c35ee22f9173373eca",
+      "size": 682649,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/143.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/144.png": {
+      "hash": "sha256:c981d547228c76828fab155d379506a802d7db228bdac3ccb80a1c0604c7b2d0",
+      "size": 676133,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/144.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/145.png": {
+      "hash": "sha256:63003a1a6ff3b27bbd78f289ce296d4b925c71c8b7c1529f95858e361d9d2e02",
+      "size": 676506,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/145.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/146.png": {
+      "hash": "sha256:b9974f9ad57212de407407b607b076b5488e4abc02c8e073f6f35e0364fd0988",
+      "size": 677231,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/146.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/147.png": {
+      "hash": "sha256:9e5c992f644e1d3363bf203fd36edda8219fcdd8241355059f7877e7e49c81bc",
+      "size": 678434,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/147.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/148.png": {
+      "hash": "sha256:fd58d2fc0202a9847ee0911aac7e34e0750e10f3e3f5ab7afbc8b433211ba93d",
+      "size": 675210,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/148.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/149.png": {
+      "hash": "sha256:2e6f88f83ab76e2edad79da293e5a5bff17163f32f62dd4bab44c589fa78b3b7",
+      "size": 681440,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/149.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/15.png": {
+      "hash": "sha256:d1278835ac5122003385f7f13200ef0ef6a9659375c75000123efd31d6586976",
+      "size": 626339,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/15.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/150.png": {
+      "hash": "sha256:69966a7959bc6bff24069831ec69054d5f254d7c3bce693d2494aaeef2259499",
+      "size": 681654,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/150.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/151.png": {
+      "hash": "sha256:174c9378eaf1c97f424a4d40ab8af2789fe8164b3bb11f14b2a5a46fd7f74c5f",
+      "size": 592792,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/151.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/152.png": {
+      "hash": "sha256:dda61a29f30d81f104bf442eb23608371e6261bffbb487cfec3bfcc49bb5450d",
+      "size": 601127,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/152.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/153.png": {
+      "hash": "sha256:09735af29b2b7543b8f21950d09171efde78a9b2d06eb1621785b04dec71b6d3",
+      "size": 602553,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/153.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/154.png": {
+      "hash": "sha256:ed6c46fa7740c9fa4be07c9d841d9ec6a01de271306111a017292677113dd04e",
+      "size": 608015,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/154.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/155.png": {
+      "hash": "sha256:62404f6ddaed5a3a373fff44fb48dffd0ab00b7c1f5e7cdee7301791dadb8f2d",
+      "size": 614050,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/155.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/156.png": {
+      "hash": "sha256:d13457f46b2df15c0e113432d4b635645b1c5a6fae7e07b99e0e5984d389e892",
+      "size": 615639,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/156.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/157.png": {
+      "hash": "sha256:4c45223f24ba5264a0415839ab374c5b65d7f88cee746943edb1ca2e57caddaa",
+      "size": 620969,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/157.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/158.png": {
+      "hash": "sha256:4c4d84b0a9efe889cf134c42f9ea87e8dcea5687711d193e3d9f38ab1b551277",
+      "size": 624540,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/158.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/159.png": {
+      "hash": "sha256:50fadde991d4f43d7e187af7bdda8ca07da258b585c07c9fbf167075048b3e2a",
+      "size": 629013,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/159.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/16.png": {
+      "hash": "sha256:533c35c77a28ed3d21be038b8b2a1281e69079de1b9fb368f7bbda521b8e3a88",
+      "size": 629376,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/16.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/160.png": {
+      "hash": "sha256:a493f0b33a07d38d4db3f385a95e9ec824188c7aa5eec26dbac083170e077d34",
+      "size": 648489,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/160.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/161.png": {
+      "hash": "sha256:02a361c38863b541583df55d3312d778962338f41770e333f9e14935834e5fe8",
+      "size": 657237,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/161.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/162.png": {
+      "hash": "sha256:bea7412c2cc0197f9f57325428f4b27203239adc57670744f00493c5ab6fc8b4",
+      "size": 657791,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/162.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/163.png": {
+      "hash": "sha256:73ff9108595c3d9ae305658f62c2f8b2a39d529a663f2fc6c7d0123a059f9cce",
+      "size": 655428,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/163.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/164.png": {
+      "hash": "sha256:d0f56dc5ded57055c552d600e1c22d9f19ab664a2ad9898e16471d02b79d19ee",
+      "size": 662665,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/164.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/165.png": {
+      "hash": "sha256:928dd0d4fd552c19d65e59f8ed3434321380d24a8dcb72bb0152eaf4f268d695",
+      "size": 666448,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/165.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/166.png": {
+      "hash": "sha256:0e185fded3c727379e596e11fcc9c7a2b815487bcccebb18c6a1072dfab94fc7",
+      "size": 670623,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/166.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/167.png": {
+      "hash": "sha256:0b068b73febe81cbe905c096a7e19668eb9645bb062510edccdd35abf96726de",
+      "size": 663398,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/167.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/168.png": {
+      "hash": "sha256:37d7d75877fc478a6f696ade26d4c7d710718fa172a777c62d17d0e9d69760db",
+      "size": 670532,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/168.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/169.png": {
+      "hash": "sha256:cc13d464d3fe1d1dc647a2ff0c063b13b5e545bb9f3da0991677c29c10d02213",
+      "size": 669486,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/169.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/17.png": {
+      "hash": "sha256:621103976cde3dce0c5b4b5693844d292dc8e4b5f05de29deabc5816d96b116e",
+      "size": 637544,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/17.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/170.png": {
+      "hash": "sha256:4b9811f09939f94f26e1fdffa76f4e3af05fd2373f25041202f028f7ecc3604b",
+      "size": 671034,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/170.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/171.png": {
+      "hash": "sha256:69d117656787f8506246e092f863b709affe607c9c89edefb14a39bb1332ba2e",
+      "size": 668094,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/171.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/172.png": {
+      "hash": "sha256:ca733c65de692241fe36d24292da5ba47ee5523e274b4d671ffd4f5ff182a1ca",
+      "size": 671148,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/172.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/173.png": {
+      "hash": "sha256:319c133c65a9f8323f89d53b12fb1337280eaa613be704483ae2c7482e2979fe",
+      "size": 674916,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/173.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/174.png": {
+      "hash": "sha256:5a24f220d5f5d95979f1565f0a614fecbf5eed56b1f37ef0db71f90730841e6d",
+      "size": 679414,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/174.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/175.png": {
+      "hash": "sha256:bccc2fc7c80658535fb0978247adbf24e1a82fdccaa8667cca56be4da13a1238",
+      "size": 676229,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/175.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/176.png": {
+      "hash": "sha256:0bfc92d97c2d189616508a354dc6a391e16184b1f34daf44e36bfac369c23448",
+      "size": 679008,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/176.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/177.png": {
+      "hash": "sha256:345c6f27cb996a15976d96e85b7bb9e98fd0e76243294a3e2d24d6d152761e06",
+      "size": 684306,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/177.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/178.png": {
+      "hash": "sha256:57694d034dbd9791dec253a848c543669f5f43a951eb3751a258047cd769113c",
+      "size": 686182,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/178.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/179.png": {
+      "hash": "sha256:2bf189bf8fd505c9790ade4a2db7df532b5f1d6c0b109051b416c8b70cbb9769",
+      "size": 682825,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/179.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/18.png": {
+      "hash": "sha256:c8d74d62e5ffb2da5d12284fe6c750d4ada21b6ec1bf7eab56635cdbdba49fdd",
+      "size": 635995,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/18.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/180.png": {
+      "hash": "sha256:4075a436a750fb0dc56179b1aa570d150a534c45f9a095b6cf5bfa01d8efc162",
+      "size": 688379,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/180.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/181.png": {
+      "hash": "sha256:2625297924b431ebabd737c797e99e6332672972f05bcb50a43e36c251be5a06",
+      "size": 596449,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/181.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/182.png": {
+      "hash": "sha256:e97225db7153bb0cac95b18797a9b2b84fba0e3da418fb4e9bc905c773edc03b",
+      "size": 602225,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/182.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/183.png": {
+      "hash": "sha256:818f778d590d0fe37f69d08cbbdfa7a974c6d2bc7205926ed98e34c3f8a62d13",
+      "size": 606771,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/183.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/184.png": {
+      "hash": "sha256:6fd04798bbf303d2ae9669d3a2a0c73ff8388d10f429f6f380d6ae64f027c7c9",
+      "size": 612022,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/184.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/185.png": {
+      "hash": "sha256:205d2757da7a8bab809b42dd7e1ff455c1eda15880e65c90cf09db7c3e6b2b30",
+      "size": 612525,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/185.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/186.png": {
+      "hash": "sha256:01d1486785356844266edcbf6606d20c56d77cbad48352d387c3a10ad9ca1eb1",
+      "size": 620109,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/186.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/187.png": {
+      "hash": "sha256:c564480b7e77233758b2e3f6abde31297e2d756dbcde420f3b511b3fb7a11c00",
+      "size": 630621,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/187.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/188.png": {
+      "hash": "sha256:359e7ab8d2e3c345f0010710080db21ef1a89224821b0c9387711a0bdd63cdee",
+      "size": 631313,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/188.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/189.png": {
+      "hash": "sha256:d3ac8633b44ad8fe751ffd651fb5f7a0ee2eadadcfdac0e1983d0602e5d055c7",
+      "size": 633886,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/189.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/19.png": {
+      "hash": "sha256:2695808e208d8f7d4cde68e82bd440daf0ac55fa3deb6ac7a7cf79cf89b7ff04",
+      "size": 635987,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/19.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/190.png": {
+      "hash": "sha256:991633d2e07a20362ee027159f8af481d9f0bc093e7fc361a6af4dfb1d52f1ba",
+      "size": 665268,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/190.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/191.png": {
+      "hash": "sha256:1584390f6ccb4126e4cf3ea9efc4a45d2c1f88d9bf12fb90e608f11d962b1065",
+      "size": 660636,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/191.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/192.png": {
+      "hash": "sha256:2808490901d92db1e945b6d87362d4c0fbc96f545c346694ef659023ef5508ad",
+      "size": 665079,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/192.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/2.png": {
+      "hash": "sha256:ff4e7e80865683fd2913f4a0b4306bb644ea5e5b110fee562b5e13790f322398",
+      "size": 380897,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/2.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/20.png": {
+      "hash": "sha256:dd735a60ac774ab984422293eed44db072ebfd594b4b2daa54225eafb0a62346",
+      "size": 639753,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/20.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/21.png": {
+      "hash": "sha256:3d37a08b9d03f8307dace0af3f75cb2ef718ec2ccff09bc432c7f842009d60cd",
+      "size": 640941,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/21.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/22.png": {
+      "hash": "sha256:a0ef155db5a1a2fa065c5417c983427bb18cf912207eeabdbc2851bb69f29d77",
+      "size": 643061,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/22.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/23.png": {
+      "hash": "sha256:c2fe7f2d63cd79fbe5f916b54a898dbe8c3a92a90d4dd264dc64d3eff267b975",
+      "size": 642212,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/23.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/24.png": {
+      "hash": "sha256:15e1bb7f423395d93e0ea1005f1c03bb6aaa77a8f1945bd88665ef1fed6edf5f",
+      "size": 641121,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/24.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/25.png": {
+      "hash": "sha256:0d66648f9910c906b192d1cc91dc622b84a8a0f4c8f43037a09df09a40e2f302",
+      "size": 640653,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/25.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/26.png": {
+      "hash": "sha256:f0eabc55dbad5b55c08c23cbb65fadb17a0e4cc5df63544852ff1b6b42ebb6b2",
+      "size": 640497,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/26.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/27.png": {
+      "hash": "sha256:28d47deed18e16c0577ec3a791eff0e0d7a2a451ca6aaeaec55d500b9fbdbf94",
+      "size": 668811,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/27.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/28.png": {
+      "hash": "sha256:76231f2ce95864e81e30916da4f336af839918bc0f1f6ac6eddc812099057fe1",
+      "size": 673587,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/28.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/29.png": {
+      "hash": "sha256:f4e73eb4fa0ed91559e5b656a714f4c12a548ca57eed46f6509ee5b10421b811",
+      "size": 674876,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/29.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/3.png": {
+      "hash": "sha256:2aaeff8fe52c48a986c3ff57c1f2fff5bfb3f82b2d0dfc86d1020688560d18b8",
+      "size": 381849,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/3.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/30.png": {
+      "hash": "sha256:a23c5c685c46ae6d14ba64b9210a455c83e088c50eeaeb191485a22644968968",
+      "size": 676660,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/30.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/31.png": {
+      "hash": "sha256:def7d01c8b38dd3ad5d5300262218c3bef7e0edacb210f9f490141cc10a8cb04",
+      "size": 537049,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/31.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/32.png": {
+      "hash": "sha256:04994930e471ab4a4d30cd68057cd086af52c8f3eab96c32821d998be5f08ef1",
+      "size": 547752,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/32.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/33.png": {
+      "hash": "sha256:861c362b744398780233d4357de297e09d51030dbdbd6624877b9a0ff527b10e",
+      "size": 552886,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/33.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/34.png": {
+      "hash": "sha256:d1e7620459dd0b3076baa3420a14240a49e70a24397635a6baf8a25346c0442f",
+      "size": 736766,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/34.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/35.png": {
+      "hash": "sha256:de9cf3b647addd9768c5c29a69525ba666ebf0b9cdb359e3bdeb998bccb19e31",
+      "size": 751674,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/35.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/36.png": {
+      "hash": "sha256:975cf2615bd9693b772811f4f695eb1ee575c55fc006d2979678b7db8a4be80f",
+      "size": 758364,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/36.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/37.png": {
+      "hash": "sha256:7097fca3efed49886787ae8a7cb93702e797ea9070d7db3f991b6995cd893056",
+      "size": 768793,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/37.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/38.png": {
+      "hash": "sha256:4f730c5a30452e41337432e809f2b628a3a690bbf1691a3710479ab7c37f52e8",
+      "size": 773411,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/38.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/39.png": {
+      "hash": "sha256:cca2f11f76ee2cb595b62acab66cc07a323b310202ffecd4e961d3699b89b530",
+      "size": 778893,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/39.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/4.png": {
+      "hash": "sha256:0da1c9adf69e8db0805b3f83ff65dbb25c71a944e99681bd9b8da0ed421e6370",
+      "size": 395514,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/4.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/40.png": {
+      "hash": "sha256:48c51f909d56ec1d32b7f7d28ba42ddb772b2bb1d431fd1cc0e9b90debc221dd",
+      "size": 783330,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/40.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/41.png": {
+      "hash": "sha256:6000bad31cbe3a09f8b941a2d501e72c5e77ea8959e40a8fc6af4428cad1792e",
+      "size": 790908,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/41.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/42.png": {
+      "hash": "sha256:3eea3d01c8e997237e02a37a644d51e8fbbb290a550ad551ba21036c7e970e75",
+      "size": 794653,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/42.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/43.png": {
+      "hash": "sha256:5d1f3423de220addcb6abe9a45574a53bd0b90de35ea507323c9eb545be81d23",
+      "size": 798071,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/43.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/44.png": {
+      "hash": "sha256:bcb6aa9fc296a59372b4ccee7023d007c843c62058c0ccfe517dc1c285e4b58e",
+      "size": 802763,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/44.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/45.png": {
+      "hash": "sha256:38ecbfdc605fff4b6f6c18af077c5cdc12553299ab0b1dafd7f63bb9fae39b4f",
+      "size": 832057,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/45.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/46.png": {
+      "hash": "sha256:8341ea2f7309cf7fc6163427f371fca11678b96d6dd1873a43493fb982bdddab",
+      "size": 885816,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/46.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/47.png": {
+      "hash": "sha256:da1f023d212063f0d6f04bfe5a62eab805cdff8eb882ddf1dfc29707475236ef",
+      "size": 885329,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/47.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/48.png": {
+      "hash": "sha256:3cd918075e55e4ae0519286a7486f9297ace2b1e071620154ec64daae41405a1",
+      "size": 886687,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/48.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/49.png": {
+      "hash": "sha256:f1e02e1bf5f34f170d4f3c11b2cf1ccbd53a685c821993a1320c998e4a42bfa4",
+      "size": 894479,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/49.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/5.png": {
+      "hash": "sha256:f048f740226792fc39d7984613c6c4dd5c30903522cb50282cbc8029ad416f5d",
+      "size": 412716,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/5.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/50.png": {
+      "hash": "sha256:70874e45a423af22591211110830af2485b401cba3d8546b4fc006b502f94443",
+      "size": 872285,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/50.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/51.png": {
+      "hash": "sha256:a281425cfca5558a42bb909c567ac0172f25d4d96f9d922e4d8c8233ac79b01b",
+      "size": 879370,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/51.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/52.png": {
+      "hash": "sha256:2f6e951e4ddfcafad1aac369fc8ae5377bd21dd6d70a0ecce7ebc3d8756ba4d2",
+      "size": 879906,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/52.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/53.png": {
+      "hash": "sha256:85e83dd66977e1b4e5f282b1fdaae0e6903dbae2e19c43c7a0ba505ded70559b",
+      "size": 667846,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/53.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/54.png": {
+      "hash": "sha256:65c3ed021536682ed6ca0857871fab63020d9dec29f3fccf56836ee33be88c54",
+      "size": 665442,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/54.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/55.png": {
+      "hash": "sha256:c07a869151030263b4a02d59f90e773f09527595f7e4efd6a49d58ab18413c58",
+      "size": 666864,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/55.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/56.png": {
+      "hash": "sha256:4f9760712843a51aa1ffff8a98ef500b5a3ccf444e6c85a2bfafadff02972218",
+      "size": 668989,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/56.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/57.png": {
+      "hash": "sha256:7d7d7922832966433412124e3247eacb0bb7a3690aeeb463501abdca21d677a2",
+      "size": 673843,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/57.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/58.png": {
+      "hash": "sha256:aa721f70cca42acb0bfd97c1464d094a80e992ef92ae0cbecf86565242d05a5e",
+      "size": 679273,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/58.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/59.png": {
+      "hash": "sha256:7687c06006bff8d3985b5906ebe0c9e933f5c9a1b536594ad3d392624faf9f02",
+      "size": 683857,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/59.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/6.png": {
+      "hash": "sha256:a68e6dda9a3f27d99e2780b2d1abc0ac1e708c5ad25cbd4892efad694cf5ab97",
+      "size": 432803,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/6.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/60.png": {
+      "hash": "sha256:6952a9c6e5760eba0e1688383efe8a87c2e8df66135e49dfdeb62a12610db64d",
+      "size": 682616,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/60.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/61.png": {
+      "hash": "sha256:8bfa31b99b64c01cec094d2aa4887eaca90f8321732191050c6dc814a236e44e",
+      "size": 553605,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/61.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/62.png": {
+      "hash": "sha256:7a2a55e2813ff8593f2541bbc3b54972fa7196d7c19074339689b76bcb6d0560",
+      "size": 574867,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/62.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/63.png": {
+      "hash": "sha256:0830ee01f6b45ddda651e8a7f58c8ce3fce94b4ec7759e336533f09e459ed9b2",
+      "size": 579830,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/63.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/64.png": {
+      "hash": "sha256:bb597958acf123a5ae6c30caf4484f7f76672c5f96fb363a0877ef87b7ee4608",
+      "size": 582284,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/64.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/65.png": {
+      "hash": "sha256:6dd78888b587575104b92478257d1be2e381e7ebc56bfd1de3ea3a557e81cda9",
+      "size": 609548,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/65.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/66.png": {
+      "hash": "sha256:92fefefec4613c45aec6ef30d8487f0fc2410af461f0cfbd50329ab8fd902df3",
+      "size": 611896,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/66.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/67.png": {
+      "hash": "sha256:ba98372e5cc105c6ed3bcd0747d7dc9e82f16da0647cacf09fe35af83a7f4d2b",
+      "size": 615718,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/67.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/68.png": {
+      "hash": "sha256:b323624b0045e1382e186ddad302e744113b3d0b94ea42f51339c3c373497061",
+      "size": 625061,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/68.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/69.png": {
+      "hash": "sha256:11c9da4948f9a41e205258f571fc01ac22caefa93a64bcbbd381243a8b9d15c8",
+      "size": 628331,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/69.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/7.png": {
+      "hash": "sha256:86b7be363bd3fc678348de716c0232c2958e30773dd09ed0cf5d0eae6c502c24",
+      "size": 450007,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/7.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/70.png": {
+      "hash": "sha256:ec4711d574f2ce4875dacc137eedd846a362f0474b67d4c2e9efaa640d1d44dd",
+      "size": 634951,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/70.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/71.png": {
+      "hash": "sha256:19883288bdd8142c31d4e52e03e03aec6f9c39b40d75d9ff6c8927611d4a72c6",
+      "size": 635827,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/71.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/72.png": {
+      "hash": "sha256:2abd1eb317d7683c5b65770802daf69c90aa252fd4c18fc4ef86809c67277d39",
+      "size": 636779,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/72.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/73.png": {
+      "hash": "sha256:6e408f7d92ce2cc841bcaca890022024eea58a2d7eade713fb100f4b93f70b67",
+      "size": 640474,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/73.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/74.png": {
+      "hash": "sha256:a33eb43880f1e17d8cd3bcb6b5bd6ed74b3e7ae91aeaa5d40dab265341d73a2e",
+      "size": 639716,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/74.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/75.png": {
+      "hash": "sha256:315fa32b0abfba6d5f7fe067c04770a67863379a768d8ba1f4b549c821a4f35d",
+      "size": 641843,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/75.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/76.png": {
+      "hash": "sha256:115c55a09961c59a800d5e5badf28886c24faa8266d7a9817c2b84ef36c87a77",
+      "size": 643559,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/76.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/77.png": {
+      "hash": "sha256:3d460c42ddf57b0f9988c610d4ffbe8d776e08c6b428d244fb8ad90c94adf6a8",
+      "size": 648261,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/77.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/78.png": {
+      "hash": "sha256:441949509b57b3523f747f5ff4f32e320f65da4dd0c345ebf3f0d8a22c0aee25",
+      "size": 652610,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/78.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/79.png": {
+      "hash": "sha256:744565868e1be944a77d726ad46e474dab71e697b9d27a3ead296c994fe9aa18",
+      "size": 652983,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/79.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/8.png": {
+      "hash": "sha256:7e609de58a2e5449ff90455970b34c6bde657723d1d4dc5f2d0501fcb2a7bb7d",
+      "size": 474377,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/8.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/80.png": {
+      "hash": "sha256:d8e0f5f3403dbd12c63e83acd2cce931f24c9a523eb2e3f08f0905bff4e53363",
+      "size": 656028,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/80.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/81.png": {
+      "hash": "sha256:9c2ed106ffe37c973c3f86d80461c0d253e45f3c62cc4f4c89e21624a93a3254",
+      "size": 660514,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/81.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/82.png": {
+      "hash": "sha256:cd0795be452209fca23c180b22484bd952dc87faddee3d76ccf163b8c2928353",
+      "size": 661079,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/82.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/83.png": {
+      "hash": "sha256:ab4eb32af055958a70e7e1131086e0b14c413972adaf2b37772a9ac0b523ab75",
+      "size": 671395,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/83.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/84.png": {
+      "hash": "sha256:dcfb15c8e0968898005527fbbe426d6bd6448c16830d1ae443545aca94e240a8",
+      "size": 675072,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/84.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/85.png": {
+      "hash": "sha256:0d38ce6802e491591cb70dc4523db7c2c541bff12f517e5a9b345425dc873907",
+      "size": 677956,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/85.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/86.png": {
+      "hash": "sha256:bdbc0c383ba7c1952c38634ee2d5e358c4a16d2342d1f6c2b2722a555ba48182",
+      "size": 675786,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/86.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/87.png": {
+      "hash": "sha256:ba03187a380794a8ba8051196b87bfc6ba1a88f2986f539642b1077abdb7bc78",
+      "size": 680728,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/87.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/88.png": {
+      "hash": "sha256:e591f6a9c98914cb07115995f1c62e0e450bc2a5f5b46a8668a10e05e62d6d94",
+      "size": 684838,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/88.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/89.png": {
+      "hash": "sha256:df7a3239401ea87acdd56af91f6475b7f7c52483ada809d01133df7b0f5ad7b8",
+      "size": 686751,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/89.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/9.png": {
+      "hash": "sha256:8ca02b446732e367e49fda4cc3546f92de64f7992687bc2915b9a297a07fd5a8",
+      "size": 515811,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/9.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/90.png": {
+      "hash": "sha256:83817a70a30013fd6cb6c3e8430a6e8726bdcafbf028fbc7f9ffb09b7366f498",
+      "size": 681481,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/90.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/91.png": {
+      "hash": "sha256:2df90a1f29a589d83515f121e20812f19887e2ccc7f9200907005d8912dd1f21",
+      "size": 589288,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/91.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/92.png": {
+      "hash": "sha256:16bf09d552888253c8e201ed9fce257b83654b56cf1997dc2c40f80dca84d4ce",
+      "size": 597573,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/92.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/93.png": {
+      "hash": "sha256:c755870ca46549967f7797517ba9a8a7d41d0e333703227ae92a067c8d4bb2a6",
+      "size": 598857,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/93.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/94.png": {
+      "hash": "sha256:02ca1a558b9ba9e82ad68426bca09b21491b318fe0ea5a4386668b0dec0ac4b0",
+      "size": 608232,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/94.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/95.png": {
+      "hash": "sha256:047c7c39006be8289d633c921a8b8d03de4fd3935d50e1a2c54a18947a2b48c6",
+      "size": 607399,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/95.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/96.png": {
+      "hash": "sha256:c188261cc1af63264712be62b6fcf061de2531cab55081bb0f3c37f38d5e61e4",
+      "size": 609128,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/96.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/97.png": {
+      "hash": "sha256:665f71681d1d2bc9eec37ef8f8da47c33784a2ff9228b3033458a5a48560132f",
+      "size": 615956,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/97.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/98.png": {
+      "hash": "sha256:f89e566961114f843b975187c2351358c482b712bee675e85ab1ede74908eb2e",
+      "size": 616876,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/98.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/frames/99.png": {
+      "hash": "sha256:709cefdceea764b915676a9608e051162c06bf3a8e3b76157b787fa2883d4b0a",
+      "size": 620473,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/frames/99.png",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/metadata.json": {
+      "hash": "sha256:33485197833d9cc771977dd30d22b6d8e458a6bb0ed39043d0260b9803c7400c",
+      "size": 159,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/metadata.json",
+      "required": true
+    },
+    "config/fancymenu/animations/thundstorm_animation/thundstorm_animation.zip": {
+      "hash": "sha256:e5e7b761dd03bf779da6da6cc2e6377b24b6d07d9141598167fadc621279a072",
+      "size": 122891299,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/animations/thundstorm_animation/thundstorm_animation.zip",
+      "required": true
+    },
+    "config/fancymenu/assets/customsplash.txt": {
+      "hash": "sha256:ccbb2257341e8f3ce714b9e219877ebfee3ac6fce931ae4e4a1699640a7cf9fd",
+      "size": 584,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/customsplash.txt",
+      "required": true
+    },
+    "config/fancymenu/assets/logos/depresivos2k25logo.png": {
+      "hash": "sha256:e3ad2ea35a8fa57f45d6f8447d512080a85978c8df109df64fa534bfcaa6595b",
+      "size": 375408,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/logos/depresivos2k25logo.png",
+      "required": true
+    },
+    "config/fancymenu/assets/logos/truenomodpack-pulseanimation.gif": {
+      "hash": "sha256:c135f7878c90a7be2daeb0ddd1278ca0a762a075230a5fd54dc545296c7d264a",
+      "size": 422753,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/logos/truenomodpack-pulseanimation.gif",
+      "required": true
+    },
+    "config/fancymenu/assets/logos/truenomodpacklogo.png": {
+      "hash": "sha256:ed3bfbfbc54a203ada881e15fcc78da9c165fa13ac4fe49c2f9ded18cdb0feb1",
+      "size": 1899385,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/logos/truenomodpacklogo.png",
+      "required": true
+    },
+    "config/fancymenu/assets/textures/tombstone_button_cobblestone.png": {
+      "hash": "sha256:4faa71f7e3fbd89df0466b906c0991f8c65a3e65bf00c079983c7389be072feb",
+      "size": 19616,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/textures/tombstone_button_cobblestone.png",
+      "required": true
+    },
+    "config/fancymenu/assets/textures/tombstone_button_cobblestone_mussy.png": {
+      "hash": "sha256:bb3b0a4b77868977aa24ce93344215955667f68d8982ab9384a66924ce69d29e",
+      "size": 19072,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/textures/tombstone_button_cobblestone_mussy.png",
+      "required": true
+    },
+    "config/fancymenu/assets/textures/tombstone_button_stonebrick.png": {
+      "hash": "sha256:e098953ffca1f99c210056a2149e8dd327dc2fa07a26873b693e890815dfaffb",
+      "size": 17386,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/textures/tombstone_button_stonebrick.png",
+      "required": true
+    },
+    "config/fancymenu/assets/textures/tombstone_button_stonebrick_mussy.png": {
+      "hash": "sha256:0bbd338bada479a792a7301a8165bf1fb2ee2df283a071bcc7b603fa00069f29",
+      "size": 18181,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/textures/tombstone_button_stonebrick_mussy.png",
+      "required": true
+    },
+    "config/fancymenu/assets/thundstorm_animation.fma": {
+      "hash": "sha256:e5e7b761dd03bf779da6da6cc2e6377b24b6d07d9141598167fadc621279a072",
+      "size": 122891299,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/thundstorm_animation.fma",
+      "required": true
+    },
+    "config/fancymenu/assets/thundstorm_animation_audio.wav": {
+      "hash": "sha256:f9eb8b1d97fef32deaec46d55853f60381075870f9e59980f02e5b3ec5e9b2bd",
+      "size": 1539830,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/assets/thundstorm_animation_audio.wav",
+      "required": true
+    },
+    "config/fancymenu/audio_element_controller_metas.json": {
+      "hash": "sha256:e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size": 0,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/audio_element_controller_metas.json",
+      "required": true
+    },
+    "config/fancymenu/customizablemenus.txt": {
+      "hash": "sha256:6f839fad9a09709e9c2d1b269218da6a515ea31495575de5bdbc901147740327",
+      "size": 55,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/customizablemenus.txt",
+      "required": true
+    },
+    "config/fancymenu/customization/title_screen_layout.txt": {
+      "hash": "sha256:147c074dc39242476ac2d809d2f7adec217991a823d60e59ec8e42d86832ca03",
+      "size": 35056,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/customization/title_screen_layout.txt",
+      "required": true
+    },
+    "config/fancymenu/custom_gui_screens.txt": {
+      "hash": "sha256:ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880",
+      "size": 51,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/custom_gui_screens.txt",
+      "required": true
+    },
+    "config/fancymenu/dragger_metas.json": {
+      "hash": "sha256:ab96a8870b591349e197dd762e1717689223230a83ceacf5d8dfcc6adf6b3e3a",
+      "size": 102,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/dragger_metas.json",
+      "required": true
+    },
+    "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget": {
+      "hash": "sha256:f4376005d963ff52e6a4e937e4413e539b4e08ef21c9f060df3696a236bcc14e",
+      "size": 198,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget",
+      "required": true
+    },
+    "config/fancymenu/legacy_checklist.txt": {
+      "hash": "sha256:9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0",
+      "size": 42,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/legacy_checklist.txt",
+      "required": true
+    },
+    "config/fancymenu/options.txt": {
+      "hash": "sha256:b725e1d2a67cc5c3ae96356cefda90255087301c1b83247968c8980ef0c07a84",
+      "size": 1956,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/options.txt",
+      "required": true
+    },
+    "config/fancymenu/ui_themes/dark.json": {
+      "hash": "sha256:43ac9bee88f1a4c9b66fee0d4b6fcec14a52feab46bf803928aabed96f510cc9",
+      "size": 4133,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/ui_themes/dark.json",
+      "required": true
+    },
+    "config/fancymenu/ui_themes/light.json": {
+      "hash": "sha256:6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620",
+      "size": 4135,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/ui_themes/light.json",
+      "required": true
+    },
+    "config/fancymenu/user_variables.db": {
+      "hash": "sha256:3d7d4cda73d6bde134a568ccbe4e8d2e7fbe701570012b71fa45acdb2258c823",
+      "size": 23,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/fancymenu/user_variables.db",
+      "required": true
+    },
+    "config/modmenu.json": {
+      "hash": "sha256:8176372de6cce55f3aa70a180fc9bbea659f3c3abef3b5347dec38701a47ee7d",
+      "size": 817,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/modmenu.json",
+      "required": true
+    },
+    "emotes/arm_dance.json": {
+      "hash": "sha256:db83909428aee5f53f7c859615986f9a5f3763678692ee1a731fd48dd104eddd",
+      "size": 62793,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/arm_dance.json",
+      "required": true
+    },
+    "emotes/Baby_Blue.json": {
+      "hash": "sha256:13036c905ef6e6ae0f4cde8d175ba337c1bd907f0eaf03bea23295d356410885",
+      "size": 20967,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Baby_Blue.json",
+      "required": true
+    },
+    "emotes/blow kiss.emotecraft": {
+      "hash": "sha256:9edd811a26112327b7d4bef979abe4a11852dd812730c55d6c4eccb7754d5e7c",
+      "size": 109816,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/blow kiss.emotecraft",
+      "required": true
+    },
+    "emotes/blow_kiss.emotecraft": {
+      "hash": "sha256:9edd811a26112327b7d4bef979abe4a11852dd812730c55d6c4eccb7754d5e7c",
+      "size": 109816,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/blow_kiss.emotecraft",
+      "required": true
+    },
+    "emotes/chiill.json": {
+      "hash": "sha256:a66d26759278d224c4e5439567522debfe49161ab4148ae017837f4212776d6d",
+      "size": 12797,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/chiill.json",
+      "required": true
+    },
+    "emotes/dicksuck.json": {
+      "hash": "sha256:5132fc5286d56effdfe1fab0196e416d39a7a8612f723d33a76e5fd92d296398",
+      "size": 264662,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/dicksuck.json",
+      "required": true
+    },
+    "emotes/Drunken.json": {
+      "hash": "sha256:65659c07fc215b55f8bb7f94e29d0b20c1922488dfe8074146e85533b30f9dd8",
+      "size": 23638,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Drunken.json",
+      "required": true
+    },
+    "emotes/f.json": {
+      "hash": "sha256:0c7bff3b11b5928c6a2f3f8ff7004a41f19c072277114683da86512c0c2f01fc",
+      "size": 3137,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/f.json",
+      "required": true
+    },
+    "emotes/fap.json": {
+      "hash": "sha256:1d0967eaa03bf4982e25c0d138594a7d6a57cd217c4ec0fb85d1fac3c6d556d6",
+      "size": 28894,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/fap.json",
+      "required": true
+    },
+    "emotes/fap2.json": {
+      "hash": "sha256:482c1026ce9db2007a4d1dc5cfc3e3be8256886703a67644ff3ff48027b7601e",
+      "size": 12755,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/fap2.json",
+      "required": true
+    },
+    "emotes/Frightened.json": {
+      "hash": "sha256:51b815a9b1a6ec90b3df1e46e3789037ab685b71a6c2a15c5eea8cc2098795e9",
+      "size": 131684,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Frightened.json",
+      "required": true
+    },
+    "emotes/hearthands.json": {
+      "hash": "sha256:6c318960c48737b55dc0cf2677a5c14e27b0907777e77e28e74dccc1c02c271f",
+      "size": 29148,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/hearthands.json",
+      "required": true
+    },
+    "emotes/jacko.json": {
+      "hash": "sha256:f0624b5941f82780ad95bc7de4ae4f1b6eb94166115e12af7606fe892cb8f37e",
+      "size": 78899,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/jacko.json",
+      "required": true
+    },
+    "emotes/Kazotsky_Kick.json": {
+      "hash": "sha256:c7b6cffaa35b3aa3297c03876b40a4c045efdef2ab67f3521af95954a404f134",
+      "size": 3552,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Kazotsky_Kick.json",
+      "required": true
+    },
+    "emotes/Kruto_stoit.json": {
+      "hash": "sha256:7f80d5aa45f0aaaf2eb9688d6cc388371e660eb14976c72efcbe12aa5c95375f",
+      "size": 4823,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Kruto_stoit.json",
+      "required": true
+    },
+    "emotes/osu2-0.json": {
+      "hash": "sha256:12abda3f81f8fe5eeb787c3d30ef5081e3d696a6c96fac6f63c33d313ca8e4e3",
+      "size": 13743,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/osu2-0.json",
+      "required": true
+    },
+    "emotes/pis_pis.json": {
+      "hash": "sha256:ffffffd7b843b96970fc5fd603978ac32d0c2d11c644ce154c6a5b7261ad3a07",
+      "size": 3594,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/pis_pis.json",
+      "required": true
+    },
+    "emotes/poza8.json": {
+      "hash": "sha256:18b5ba769a379b0dc4b4d5eb98811d8fc40ba5f183c9c90c5fe349e6f451e8c1",
+      "size": 8052,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/poza8.json",
+      "required": true
+    },
+    "emotes/pushupsloop.json": {
+      "hash": "sha256:5eda39a6adedb8e0f29fc016fa4822e91e1eed031150d15b345c489cc87d40ce",
+      "size": 73766,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/pushupsloop.json",
+      "required": true
+    },
+    "emotes/Relax.json": {
+      "hash": "sha256:e5f7f7bdb75b485b46c25e4104eaba86781282a4d2d0f9a3e747d9f14c96c217",
+      "size": 1023,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Relax.json",
+      "required": true
+    },
+    "emotes/ShakeitChadEmoteCraft.json": {
+      "hash": "sha256:6a79ba954960cf9ab6a03f5229a619bed23b575f73f37c9e11ec13915803513d",
+      "size": 172845,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/ShakeitChadEmoteCraft.json",
+      "required": true
+    },
+    "emotes/Shake_it_V2.json": {
+      "hash": "sha256:08cdfba336d6be0113da60f2cf11e1394459e003cd59f085164acdb142d7758f",
+      "size": 2027,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Shake_it_V2.json",
+      "required": true
+    },
+    "emotes/SPE_Striptease.json": {
+      "hash": "sha256:59717fcf7a9b721c48182080ecc4b55dd07a0510e097c202e316124c88a63ac4",
+      "size": 214718,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/SPE_Striptease.json",
+      "required": true
+    },
+    "emotes/Take_The_L.json": {
+      "hash": "sha256:f03df7dce1d4ce39a86862e6cca8ce9a811aa9b53c17e8b1d429ebdd37409304",
+      "size": 69950,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/Take_The_L.json",
+      "required": true
+    },
+    "emotes/think.json": {
+      "hash": "sha256:0069128e9eb1b69c2712bb979dad5f94d69c10f9ab2501c3f73f0331afd48e53",
+      "size": 28487,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/think.json",
+      "required": true
+    },
+    "emotes/What_is_this.json": {
+      "hash": "sha256:931acba9fdc27d5f3300957d705f81c5b33c3c21f9319330dd1463fc2f2e6891",
+      "size": 893,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/emotes/What_is_this.json",
+      "required": true
+    },
+    "mods/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar": {
+      "hash": "sha256:7949b9ef4b7ea263a1b1370f7b2193b1d0c7f17b61ba953b31a02b1caf8aa1c7",
+      "size": 153757,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/AdaptiveTooltips-1.3.0-fabric-1.20.2.jar",
+      "required": true
+    },
+    "mods/ad_astra-fabric-1.20.1-1.15.19.jar": {
+      "hash": "sha256:ffa046f4b5b1bf9236bece4436a37dc4ed16d7692f02b8513204a6986b2fe072",
+      "size": 7317497,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/ad_astra-fabric-1.20.1-1.15.19.jar",
+      "required": true
+    },
+    "mods/AmbientSounds_FABRIC_v6.1.4_mc1.20.1.jar": {
+      "hash": "sha256:60e67fbdfa35874f365ba69ecc8938bdd2da8050d356119fedd0e35fe51160af",
+      "size": 83889009,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/AmbientSounds_FABRIC_v6.1.4_mc1.20.1.jar",
+      "required": true
+    },
+    "mods/animal_feeding_trough-1.1.0+1.20.1.jar": {
+      "hash": "sha256:4c39afc711918fae23ea46cb5c71c08d08ccabcba88b4ce7aba9d614c4ed5146",
+      "size": 237378,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/animal_feeding_trough-1.1.0+1.20.1.jar",
+      "required": true
+    },
+    "mods/another_furniture-fabric-1.20.1-3.0.1.jar": {
+      "hash": "sha256:7edd08c7c9d627514e1008ea8631511402609251f53b8c3470278fc69f7c7ae5",
+      "size": 2733280,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/another_furniture-fabric-1.20.1-3.0.1.jar",
+      "required": true
+    },
+    "mods/appliedenergistics2-fabric-15.2.14.jar": {
+      "hash": "sha256:9316a6a3beee72ce0d3632083109b0efe79cc9c8079f52c216822e80b10f7163",
+      "size": 9862279,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/appliedenergistics2-fabric-15.2.14.jar",
+      "required": true
+    },
+    "mods/architectury-9.2.14-fabric.jar": {
+      "hash": "sha256:bd7a7032bedb2ff96c6991a846a44c857336a51442a105f5859017e8ba9d1321",
+      "size": 585207,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/architectury-9.2.14-fabric.jar",
+      "required": true
+    },
+    "mods/azurelibarmor-fabric-1.20.1-2.0.14.jar": {
+      "hash": "sha256:9593a67b5febdd88d8b603694237fae51ae1cd3cf3bad8eccfb83fdba002685b",
+      "size": 427488,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/azurelibarmor-fabric-1.20.1-2.0.14.jar",
+      "required": true
+    },
+    "mods/betterarcheology-1.2.1-1.20.1.jar": {
+      "hash": "sha256:5bb95c809c158cbe4f765593ef0490166dd4e4923993fc31959a95f7368b7877",
+      "size": 892390,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/betterarcheology-1.2.1-1.20.1.jar",
+      "required": true
+    },
+    "mods/Bookshelf-Fabric-1.20.1-20.2.13.jar": {
+      "hash": "sha256:4da44061c9daf2c8b44531609f381b9b92bb207d9709753ead3b6ef1f6adcd7a",
+      "size": 322180,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Bookshelf-Fabric-1.20.1-20.2.13.jar",
+      "required": true
+    },
+    "mods/botarium-fabric-1.20.1-2.3.4.jar": {
+      "hash": "sha256:d829200b5dbb464970e2c8b913e39788fd8902e43c4018200d8580833b4d0324",
+      "size": 188388,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/botarium-fabric-1.20.1-2.3.4.jar",
+      "required": true
+    },
+    "mods/camerautils-1.20.1-1.0.5.jar": {
+      "hash": "sha256:2765ad6bee67afb00392e8ec5f16a81b72d84a57be37d2c76dd8e67cbbc8872c",
+      "size": 294528,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/camerautils-1.20.1-1.0.5.jar",
+      "required": true
+    },
+    "mods/carryon-fabric-1.20.1-2.1.2.7.jar": {
+      "hash": "sha256:8d25fb164fc4cc15cd9123a915c880c55527efe3fec26b2c7febf09e65c6ebdd",
+      "size": 443033,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/carryon-fabric-1.20.1-2.1.2.7.jar",
+      "required": true
+    },
+    "mods/chat_heads-0.13.7-fabric-1.20.jar": {
+      "hash": "sha256:0f51666f2cce65825e8e515375274314a2f2e98c2c6b38c3b2aeb27cd47055fc",
+      "size": 76261,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/chat_heads-0.13.7-fabric-1.20.jar",
+      "required": true
+    },
+    "mods/chunksfadein-1.0.7-1.20.1.jar": {
+      "hash": "sha256:6057f77a8455121ae1473e02c55429e586d8511af57934ffdc4f96eea1ef13a3",
+      "size": 313164,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/chunksfadein-1.0.7-1.20.1.jar",
+      "required": true
+    },
+    "mods/cloth-config-11.1.136-fabric.jar": {
+      "hash": "sha256:844f49c339c8f3144e167ab21b7d0059f0d571054e26285a0749348da25c49fa",
+      "size": 1172214,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/cloth-config-11.1.136-fabric.jar",
+      "required": true
+    },
+    "mods/continuity-3.0.0+1.20.1.jar": {
+      "hash": "sha256:fdb646bd51667c57e576d1412c740ac48e3bf6953294dde11a62101a09395fe3",
+      "size": 1016063,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/continuity-3.0.0+1.20.1.jar",
+      "required": true
+    },
+    "mods/CraftPresence-2.5.2+1.20.1-fabric.jar": {
+      "hash": "sha256:0a96dd26219fcaf971c0a184529ef117e4f83fa9811992245c229fa851800639",
+      "size": 2107790,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/CraftPresence-2.5.2+1.20.1-fabric.jar",
+      "required": true
+    },
+    "mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar": {
+      "hash": "sha256:33ec1d696c687e95cded0cffa6d581ac80bc9e416ec6040fcd595ce226d70bfb",
+      "size": 24841934,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+      "required": true
+    },
+    "mods/create-new-age-fabric-1.20.1-1.1.2.jar": {
+      "hash": "sha256:7a005811d8e89d124213936e47f5f200df2ede6dda0e3c958d5b6f9b4bc96f5a",
+      "size": 657516,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/create-new-age-fabric-1.20.1-1.1.2.jar",
+      "required": true
+    },
+    "mods/create-structures-0.1.1-1.20.1-FABRIC.jar": {
+      "hash": "sha256:3167a3a00232e115eab4afdab277e2d0c4d29c8bf68c77b57b5328cccb9db4f6",
+      "size": 484457,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/create-structures-0.1.1-1.20.1-FABRIC.jar",
+      "required": true
+    },
+    "mods/createaddition-1.20.1-1.2.4e.jar": {
+      "hash": "sha256:7f4112e75fa058fec1eb3ca4656f35fe23200e4c1fa6f925b516d62f6b46c3f1",
+      "size": 1515917,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/createaddition-1.20.1-1.2.4e.jar",
+      "required": true
+    },
+    "mods/createdieselgenerators-2.1.4.jar": {
+      "hash": "sha256:5ee15c4143889bd86e207b048ac190806d2a1949f122b70cdf23b8b96bf9c621",
+      "size": 1952791,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/createdieselgenerators-2.1.4.jar",
+      "required": true
+    },
+    "mods/createoreexcavation-fabric-1.20-1.5.4.jar": {
+      "hash": "sha256:261a4243cc599a444a34755fd120000ee9c8d5f8107e195a735a2df8437b711c",
+      "size": 499058,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/createoreexcavation-fabric-1.20-1.5.4.jar",
+      "required": true
+    },
+    "mods/create_jetpack-fabric-4.2.1.jar": {
+      "hash": "sha256:08047cb592e305b1dd1f78e78de6c7c6ddf1cc25b919fda7055571240b88b7aa",
+      "size": 223957,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/create_jetpack-fabric-4.2.1.jar",
+      "required": true
+    },
+    "mods/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar": {
+      "hash": "sha256:82e5fb42c8b6ea179877158666073fda11560d2101a0804496d61de9ad3b000b",
+      "size": 1208841,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/CreativeCore_FABRIC_v2.12.24_mc1.20.1.jar",
+      "required": true
+    },
+    "mods/cristellib-1.1.5-fabric.jar": {
+      "hash": "sha256:6d4e73a95e7bee1e0f9b2a531d40fcc255490c064f4607f58d11f48c4c61101b",
+      "size": 431581,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/cristellib-1.1.5-fabric.jar",
+      "required": true
+    },
+    "mods/deeperdarker-fabric-1.20-1.3.3.jar": {
+      "hash": "sha256:037b784dc121166a510c324575685aa156c8368cffc19866765dcd7ee20cc25d",
+      "size": 17848630,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/deeperdarker-fabric-1.20-1.3.3.jar",
+      "required": true
+    },
+    "mods/emi-1.1.18+1.20.1+fabric.jar": {
+      "hash": "sha256:a45dc428ed9014bee5375141f56cee523cf12bf582ba1ae29beb95e73c77267f",
+      "size": 1023360,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/emi-1.1.18+1.20.1+fabric.jar",
+      "required": true
+    },
+    "mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar": {
+      "hash": "sha256:e8c5fc2d618008a0ef52728508909945315bb9bf99d78f1478ec42cef502a4e0",
+      "size": 873611,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-fabric.jar",
+      "required": true
+    },
+    "mods/EnchantmentDescriptions-Fabric-1.20.1-17.1.19.jar": {
+      "hash": "sha256:187ed376e65f3f2a953c9ecbf3be3c8d90854123f6437202b53fae75944d175e",
+      "size": 63569,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/EnchantmentDescriptions-Fabric-1.20.1-17.1.19.jar",
+      "required": true
+    },
+    "mods/entity_model_features_fabric_1.20.1-2.4.1.jar": {
+      "hash": "sha256:1da9c7bee8d0d700930b2a837b798cb6ae871c13081e2133f9ce31ef72ad43c7",
+      "size": 444272,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/entity_model_features_fabric_1.20.1-2.4.1.jar",
+      "required": true
+    },
+    "mods/entity_texture_features_fabric_1.20.1-6.2.9.jar": {
+      "hash": "sha256:369d44d81df32c3840974f936ac225036c56b08303c42926200980c271ee6516",
+      "size": 652400,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/entity_texture_features_fabric_1.20.1-6.2.9.jar",
+      "required": true
+    },
+    "mods/fabric-api-0.92.2+1.20.1.jar": {
+      "hash": "sha256:4500f844c45573d039d68d3963c9885aa9de7712670216e0ad3e5df16c6770fc",
+      "size": 2107289,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/fabric-api-0.92.2+1.20.1.jar",
+      "required": true
+    },
+    "mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar": {
+      "hash": "sha256:8a7f673b2e1315bf2cbc3cc869753e20823c43f9aa5be596d0f74dc3c626ad92",
+      "size": 7089756,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/fabric-language-kotlin-1.13.0+kotlin.2.1.0.jar",
+      "required": true
+    },
+    "mods/fancymenu_fabric_3.3.2_MC_1.20.1.jar": {
+      "hash": "sha256:966418e1396088829ad0ec0f289accda418b8bfc696979daa8fdd1b6c83df455",
+      "size": 2877394,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/fancymenu_fabric_3.3.2_MC_1.20.1.jar",
+      "required": true
+    },
+    "mods/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar": {
+      "hash": "sha256:8f078189ad44eaf20cfb277f92b6362a508d50a94b0a35956e2779c6665be464",
+      "size": 396955,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/ForgeConfigAPIPort-v8.0.1-1.20.1-Fabric.jar",
+      "required": true
+    },
+    "mods/forgottengraves-3.2.17+1.20.1.jar": {
+      "hash": "sha256:07792ba668e91b975da4eae4493079dc1d0d2878f568e3fe5b9ba709dc342d76",
+      "size": 1375910,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/forgottengraves-3.2.17+1.20.1.jar",
+      "required": true
+    },
+    "mods/geckolib-fabric-1.20.1-4.7.jar": {
+      "hash": "sha256:e0b89c0996853a4a9b2aa5c99ff3cd6c816a238b98226ba3582e13ff3192c315",
+      "size": 1032026,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/geckolib-fabric-1.20.1-4.7.jar",
+      "required": true
+    },
+    "mods/GeckoLibIrisCompat-Fabric-1.0.0.jar": {
+      "hash": "sha256:3bdd715799e82e4b1472de59995d91da3e5c19389bf2dc01d69a5708641c4ae9",
+      "size": 6202,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/GeckoLibIrisCompat-Fabric-1.0.0.jar",
+      "required": true
+    },
+    "mods/immersive_melodies-0.3.0+1.20.1-fabric.jar": {
+      "hash": "sha256:17614319862b32d247e9b4ff588f70db89423e74a579c06c4193bba40dd45073",
+      "size": 2561091,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/immersive_melodies-0.3.0+1.20.1-fabric.jar",
+      "required": true
+    },
+    "mods/indium-1.0.34+mc1.20.1.jar": {
+      "hash": "sha256:33bdc7f01bdca61fd1d526e9e6ae1acdf107412ed0f6483da528d7eadc919059",
+      "size": 105359,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/indium-1.0.34+mc1.20.1.jar",
+      "required": true
+    },
+    "mods/infinitybuttons-4.0.5-mc1.20.1.jar": {
+      "hash": "sha256:d7d6e1d1520adb6555704bf3a9a1e4db17752767283ebaa0bf327c809ee45c97",
+      "size": 1362285,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/infinitybuttons-4.0.5-mc1.20.1.jar",
+      "required": true
+    },
+    "mods/inmis-2.7.2-1.20.1.jar": {
+      "hash": "sha256:039957059a177252edb6549d33d0297bb89f9c73d0fda1ad123414de63de11a6",
+      "size": 147752,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/inmis-2.7.2-1.20.1.jar",
+      "required": true
+    },
+    "mods/iris-1.7.5+mc1.20.1.jar": {
+      "hash": "sha256:95b870dfe225ff26d9d3997c0b0089063d3b6e0e017f018d7217f52a31076f08",
+      "size": 2730664,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/iris-1.7.5+mc1.20.1.jar",
+      "required": true
+    },
+    "mods/Jade-1.20-fabric-11.8.0.jar": {
+      "hash": "sha256:3638a6e9396ff1ddde86669baf78a28f486e85be9161ba4207d3456fe2ecc546",
+      "size": 546991,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Jade-1.20-fabric-11.8.0.jar",
+      "required": true
+    },
+    "mods/Jewelry-1.3.7+1.20.1.jar": {
+      "hash": "sha256:1314c5b514fc0ed47c877d2d13e80c119519b868311615ffbe9191e0bb77f8bc",
+      "size": 641972,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Jewelry-1.3.7+1.20.1.jar",
+      "required": true
+    },
+    "mods/konkrete_fabric_1.8.1_MC_1.20.1.jar": {
+      "hash": "sha256:f87fc3ab29a8df63a5214fdfa58d2f9fa645255af64d38ba598a9f56fafccdb6",
+      "size": 892067,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "required": true
+    },
+    "mods/lambdynamiclights-2.3.2+1.20.1.jar": {
+      "hash": "sha256:20433fb9a20f9450599bde4d8f0e8b0898eefdbda13e47d68430d31422c9f564",
+      "size": 573183,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/lambdynamiclights-2.3.2+1.20.1.jar",
+      "required": true
+    },
+    "mods/libIPN-fabric-1.20-4.0.2.jar": {
+      "hash": "sha256:3e75c8d8c32b2dfbf7bb1cdd91f5b0d30bb39eb43ecfcf1c25ca093409c1a606",
+      "size": 702814,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/libIPN-fabric-1.20-4.0.2.jar",
+      "required": true
+    },
+    "mods/MagnumTorch-v8.0.2-1.20.1-Fabric.jar": {
+      "hash": "sha256:ae2ba8323a90aabdad85bd136912a83ca5005253af27366d3357f04bf6f04fe1",
+      "size": 81084,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/MagnumTorch-v8.0.2-1.20.1-Fabric.jar",
+      "required": true
+    },
+    "mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar": {
+      "hash": "sha256:3f7f5bab77a01a26af4702a70af5a7fd0a6f04f4fde51a4180113790e0c9e1e7",
+      "size": 39696,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "required": true
+    },
+    "mods/modmenu-7.2.2.jar": {
+      "hash": "sha256:a041b0f0305ffa5eb90120aa23768e1cfbb27583904b1751e3783c0f69382f1a",
+      "size": 721366,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/modmenu-7.2.2.jar",
+      "required": true
+    },
+    "mods/mythic-mounts-1.20.1-7.2.jar": {
+      "hash": "sha256:74808c8d2a3ad49929780a746ccd2e5a4452f168eef686e69467512c42fd27cc",
+      "size": 4359435,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/mythic-mounts-1.20.1-7.2.jar",
+      "required": true
+    },
+    "mods/naturalist-fabric-4.0.3-1.20.1.jar": {
+      "hash": "sha256:a21c21068a46bb7663376b0cce7e7ac9228aac46db2bc5f3d13ab9b44ed3aa92",
+      "size": 4310075,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/naturalist-fabric-4.0.3-1.20.1.jar",
+      "required": true
+    },
+    "mods/no-report-button-fabric-1.5.0.jar": {
+      "hash": "sha256:e1e345a495b400192dfaeb9fd397759a665f3667a8d22ae1849ecb8d07a1bfac",
+      "size": 10973,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/no-report-button-fabric-1.5.0.jar",
+      "required": true
+    },
+    "mods/owo-lib-0.11.2+1.20.jar": {
+      "hash": "sha256:1c249c30d3e50bba5cb35e0c3acebf4bd5f969bd33402de2f3a6a619fd688d12",
+      "size": 905421,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/owo-lib-0.11.2+1.20.jar",
+      "required": true
+    },
+    "mods/Patchouli-1.20.1-84-FABRIC.jar": {
+      "hash": "sha256:96ad2c77adf1d0fe1994223b5f469848d51d111b33737efb708eba4ad8f4d2e0",
+      "size": 856882,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Patchouli-1.20.1-84-FABRIC.jar",
+      "required": true
+    },
+    "mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar": {
+      "hash": "sha256:0b10021fa638997398110777747726b1cb7a27bc3f8ff1b12e2b93ac01784018",
+      "size": 181008,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "required": true
+    },
+    "mods/pointblank-fabric-1.20.1-1.9.6.jar": {
+      "hash": "sha256:8e76fd255cc0d28b59b8f3be1ec37955d5c293bfc05ab45bc2f9d4f1e78c725d",
+      "size": 17545207,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/pointblank-fabric-1.20.1-1.9.6.jar",
+      "required": true
+    },
+    "mods/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar": {
+      "hash": "sha256:2544324debf87d7d86849c1c49628b881aa009e7f55d46dadf68713c8ae677ea",
+      "size": 980317,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/PuzzlesLib-v8.1.25-1.20.1-Fabric.jar",
+      "required": true
+    },
+    "mods/ranged_weapon_api-1.1.4+1.20.1.jar": {
+      "hash": "sha256:afa0f8379aca3ca719a88b3c6c3ed8643177bf2b6dfadf8e0bf533154d6c904a",
+      "size": 114936,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/ranged_weapon_api-1.1.4+1.20.1.jar",
+      "required": true
+    },
+    "mods/remove-terralith-intro-message-1.1.jar": {
+      "hash": "sha256:15412603b8090e1ca79a2b5e52b03d2f441a6e65d5729b525f991a1d2acd5498",
+      "size": 98580,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/remove-terralith-intro-message-1.1.jar",
+      "required": true
+    },
+    "mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar": {
+      "hash": "sha256:fcf04aac2e1d64f63ecf83cabc57b8058c99a34a4a9e5fa3289d83bf82e04815",
+      "size": 134793,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/resourcefulconfig-fabric-1.20.1-2.1.2.jar",
+      "required": true
+    },
+    "mods/resourcefullib-fabric-1.20.1-2.1.29.jar": {
+      "hash": "sha256:2543d76f4f440d4401dccf7675f836381260919f0ac884e2696ae67e600adeeb",
+      "size": 431646,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "required": true
+    },
+    "mods/rogues-1.1.0+1.20.1.jar": {
+      "hash": "sha256:fb1b97882d16fd9375d05bdc6996e2b2f6d8e7d7d418cf08bd3a89cf7f318b43",
+      "size": 1007218,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/rogues-1.1.0+1.20.1.jar",
+      "required": true
+    },
+    "mods/runes-0.9.13+1.20.1.jar": {
+      "hash": "sha256:fc715f7d782011cf3161075cc147c501fb8aa673f3e6da44ba298228de30493a",
+      "size": 242139,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/runes-0.9.13+1.20.1.jar",
+      "required": true
+    },
+    "mods/sodium-fabric-0.5.11+mc1.20.1.jar": {
+      "hash": "sha256:5413baaa260a2eadcee4221b8e7105a8e2a9b5b2c84b73f704f2740319aab7df",
+      "size": 968419,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/sodium-fabric-0.5.11+mc1.20.1.jar",
+      "required": true
+    },
+    "mods/spell_engine-0.15.12+1.20.1.jar": {
+      "hash": "sha256:abb0ab23961a563d5307d8527f718c0eed4f7f96312178960da4e6769a1012f2",
+      "size": 1459273,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/spell_engine-0.15.12+1.20.1.jar",
+      "required": true
+    },
+    "mods/spell_power-0.12.0+1.20.1.jar": {
+      "hash": "sha256:896008ae5bf2869074f7b0a64a18bf12ea258b24da2ffb1ad9a87426db8b8662",
+      "size": 184963,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/spell_power-0.12.0+1.20.1.jar",
+      "required": true
+    },
+    "mods/Steam_Rails-1.6.9+fabric-mc1.20.1.jar": {
+      "hash": "sha256:38f35fa36c1688f129f7c2b4ecc741abd0fed12ad996f23b58e15e8162985ce5",
+      "size": 9892101,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Steam_Rails-1.6.9+fabric-mc1.20.1.jar",
+      "required": true
+    },
+    "mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar": {
+      "hash": "sha256:fe76c8cf001878109adbdd2f4ef877b76ddfdefdca91ff9b90353c2e8af8022c",
+      "size": 207990,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/supermartijn642configlib-1.1.8a-fabric-mc1.20.jar",
+      "required": true
+    },
+    "mods/tectonic-fabric-1.20.1-2.4.1b.jar": {
+      "hash": "sha256:afe4940f4327fa27d2e6deb29b137bbeecc57ce5581407e98e1b74881fc2390d",
+      "size": 349635,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/tectonic-fabric-1.20.1-2.4.1b.jar",
+      "required": true
+    },
+    "mods/Terralith_1.20.x_v2.5.4.jar": {
+      "hash": "sha256:8f65f309d8f2723754bf4b60c7b5763d3ab6ed04b01c172109ba6564e981b95f",
+      "size": 3156901,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Terralith_1.20.x_v2.5.4.jar",
+      "required": true
+    },
+    "mods/Towns-and-Towers-1.12-Fabric+Forge.jar": {
+      "hash": "sha256:9c8115af7109579da990249fdd67b38323a45be70f8a3a962b61da69c7021984",
+      "size": 2864275,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Towns-and-Towers-1.12-Fabric+Forge.jar",
+      "required": true
+    },
+    "mods/TreeChop-1.20.1-fabric-0.19.0.jar": {
+      "hash": "sha256:66ad56c20fc07fddbfc5144d98c70fa85b5fce43dd0d68474a4aa5d2d748705f",
+      "size": 490611,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/TreeChop-1.20.1-fabric-0.19.0.jar",
+      "required": true
+    },
+    "mods/trinkets-3.7.2.jar": {
+      "hash": "sha256:a6f11a4206c1285cd260a60d9bfe9cefa9914d2190d08b3c52050f42044b53b3",
+      "size": 238532,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/trinkets-3.7.2.jar",
+      "required": true
+    },
+    "mods/UniLib-1.0.4+1.20.1-fabric.jar": {
+      "hash": "sha256:10575d18da3976ac55e64c4cd70a3f382aa6739d82c0c3f51f13444a889f9c91",
+      "size": 1129156,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/UniLib-1.0.4+1.20.1-fabric.jar",
+      "required": true
+    },
+    "mods/wizards-1.3.0+1.20.1.jar": {
+      "hash": "sha256:eebcdce6d0b7126115f95e334aa4a2c48f12e9ff4d8feaebf11b3672f429d748",
+      "size": 2877001,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/wizards-1.3.0+1.20.1.jar",
+      "required": true
+    },
+    "mods/XaerosWorldMap_1.39.2_Fabric_1.20.jar": {
+      "hash": "sha256:644a6815dff77ef779eba95096ff9fb1c0ccf3988331cfe4f9f60d55789acb52",
+      "size": 950403,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/XaerosWorldMap_1.39.2_Fabric_1.20.jar",
+      "required": true
+    },
+    "mods/Xaeros_Minimap_24.7.1_Fabric_1.20.jar": {
+      "hash": "sha256:dd4d3e077681e1f5bd9c0baef2334d7c88c64f703d04e7da9054973f096d624a",
+      "size": 1653085,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/Xaeros_Minimap_24.7.1_Fabric_1.20.jar",
+      "required": true
+    },
+    "mods/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar": {
+      "hash": "sha256:cbd133b448aa3b82998aefb3e6c96227794b23b1a5fbe1fee67964f6f912be38",
+      "size": 1106630,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/YetAnotherConfigLib-3.6.2+1.20.1-fabric.jar",
+      "required": true
+    },
+    "mods/YungsApi-1.20-Fabric-4.0.6.jar": {
+      "hash": "sha256:26b6dc81f876aabf3d53ead59e5908a8b0f5434d46c150cfd376c027ac54053e",
+      "size": 1396331,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/mods/YungsApi-1.20-Fabric-4.0.6.jar",
+      "required": true
+    },
+    "resourcepacks/FaithfulPBR_64_1.12p.zip": {
+      "hash": "sha256:6bb7086bdbc683460e50eba95c9d9ac5be07a64680d3741e599392d562b93170",
+      "size": 17596886,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/resourcepacks/FaithfulPBR_64_1.12p.zip",
+      "required": true
+    },
+    "resourcepacks/FreshAnimations_v1.9.2.zip": {
+      "hash": "sha256:7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b",
+      "size": 516256,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/resourcepacks/FreshAnimations_v1.9.2.zip",
+      "required": true
+    },
+    "shaderpacks/BSL_v8.4.01.2.zip": {
+      "hash": "sha256:f06508abf8a290b8bb7e5be36553e1a7cbd81adddfdfeeca30f9bff114107e93",
+      "size": 1105709,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/shaderpacks/BSL_v8.4.01.2.zip",
+      "required": true
+    },
+    "shaderpacks/ComplementaryUnbound_r5.3.zip": {
+      "hash": "sha256:66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce",
+      "size": 446661,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/shaderpacks/ComplementaryUnbound_r5.3.zip",
+      "required": true
+    },
+    "truenomodpack.json": {
+      "hash": "sha256:091970a193728a6175cc12d84f94eb43459fd51ff7142ab52fbfd2372775e227",
+      "size": 112396,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/truenomodpack.json",
       "required": true
     }
   }
