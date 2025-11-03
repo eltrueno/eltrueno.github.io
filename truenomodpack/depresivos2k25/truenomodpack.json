@@ -4,7 +4,7 @@
   "description": "Modpack fabric version 1.19.4",
   "version": 1,
   "versions": {
-    "1": { "string": "v0.1.0", "description": "Test" }
+    "1": { "string": "v0.1.0", "description": "Test" },
     "2": { "string": "v1.0.0", "description": "Primera versión" }
   },
   "minecraft_version": "1.20.1",
