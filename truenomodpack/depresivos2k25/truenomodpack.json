@@ -16,7 +16,7 @@
       "size": 4,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1/test.txt",
       "required": false
-    }
+    },
     "config/craftpresence.json": {
       "hash": "sha256:2d1842fc1720e64f5100d8d2a343d05c70c6cbe5a7eb90aaed460317251bfc33",
       "size": 4549,
