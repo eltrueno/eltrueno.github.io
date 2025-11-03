@@ -11,12 +11,6 @@
   "loader": "fabric",
   "loader_version": "0.16.10",
   "files": {
-    "test.txt": {
-      "hash": "sha256:9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08",
-      "size": 4,
-      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1/test.txt",
-      "required": false
-    },
     "config/craftpresence.json": {
       "hash": "sha256:2d1842fc1720e64f5100d8d2a343d05c70c6cbe5a7eb90aaed460317251bfc33",
       "size": 4549,
@@ -1995,12 +1989,6 @@
       "hash": "sha256:66061b3c5b4843e31bc9a7562a7ac697a51bb77c73defc7071f996b783efacce",
       "size": 446661,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/shaderpacks/ComplementaryUnbound_r5.3.zip",
-      "required": true
-    },
-    "truenomodpack.json": {
-      "hash": "sha256:091970a193728a6175cc12d84f94eb43459fd51ff7142ab52fbfd2372775e227",
-      "size": 112396,
-      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/truenomodpack.json",
       "required": true
     }
   }
