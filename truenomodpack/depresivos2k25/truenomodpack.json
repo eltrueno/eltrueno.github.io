@@ -10,6 +10,58 @@
   "minecraft_version": "1.20.1",
   "loader": "fabric",
   "loader_version": "0.16.10",
+  "loader_files":{
+    "libraries/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar": {
+      "hash": "sha256:23557a7d6da3db971a6f9620cb62e7b6e6d1509f5138ebb87529877d2400e568",
+      "size": 1387408,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/net/fabricmc/fabric-loader/0.16.10/fabric-loader-0.16.10.jar"
+    },
+    "libraries/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar": {
+      "hash": "sha256:caa3fd87dd353fc826a109a2d16f886d6519b47422e3a77cfa0ba8be5829a21e",
+      "size": 573365,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/net/fabricmc/intermediary/1.20.1/intermediary-1.20.1.jar"
+    },
+    "libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar": {
+      "hash": "sha256:4631f67da980ae2ac9e6e285a7df4680645e2f37a6a14acc775f97982162c2a2",
+      "size": 1494834,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+    },
+    "libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar": {
+      "hash": "sha256:8cadd43ac5eb6d09de05faecca38b917a040bb9139c7edeb4cc81c740b713281",
+      "size": 126093,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+    },
+    "libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar": {
+      "hash": "sha256:85b29371884ba31bb76edf22323c2c24e172c3267a67152eba3d1ccc2e041ef2",
+      "size": 35126,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+    },
+    "libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar": {
+      "hash": "sha256:9a579b54d292ad9be171d4313fd4739c635592c2b5ac3a459bbd1049cddec6a0",
+      "size": 73459,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+    },
+    "libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar": {
+      "hash": "sha256:9929881f59eb6b840e86d54570c77b59ce721d104e6dfd7a40978991c2d3b41f",
+      "size": 51939,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+    },
+    "libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar": {
+      "hash": "sha256:f885be71b5c90556f5f1ad1c4f9276b29b96057c497d46666fe4ddbec3cb43c6",
+      "size": 94519,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+    },
+    "truenomodpack.json": {
+      "hash": "sha256:2cae19799c570e9286d031dd93e239eae07e3c3d0920e364e5cc1b9d4861632b",
+      "size": 3737,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/truenomodpack.json"
+    },
+    "versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.jar": {
+      "hash": "sha256:56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
+      "size": 23028853,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.jar"
+    }
+  }
   "files": {
     "config/craftpresence.json": {
       "hash": "sha256:2d1842fc1720e64f5100d8d2a343d05c70c6cbe5a7eb90aaed460317251bfc33",
