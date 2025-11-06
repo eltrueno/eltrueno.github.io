@@ -51,11 +51,6 @@
       "size": 94519,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/libraries/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
     },
-    "truenomodpack.json": {
-      "hash": "sha256:2cae19799c570e9286d031dd93e239eae07e3c3d0920e364e5cc1b9d4861632b",
-      "size": 3737,
-      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/truenomodpack.json"
-    },
     "versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.jar": {
       "hash": "sha256:56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
       "size": 23028853,
