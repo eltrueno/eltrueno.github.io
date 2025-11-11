@@ -55,6 +55,11 @@
       "hash": "sha256:56b71336d2b4fdffd197f56595b0da93e32a946f78f382a299b8f4b92758bb0f",
       "size": 23028853,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.jar"
+    },
+    "versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.json": {
+      "hash": "sha256:0d2c0ba1ce011aef7fe369f46a052828c233b0638e45703a91ec1405920e365f",
+      "size": 2866,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.json"
     }
   },
   "files": {
