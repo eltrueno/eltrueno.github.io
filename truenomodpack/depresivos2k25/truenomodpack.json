@@ -1365,6 +1365,18 @@
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/modmenu.json",
       "editable": true
     },
+    "config/xaerominimap.txt": {
+      "hash": "sha256:903075d183d07d42cc0ff9d5283fe12e18f38fb6fad01610835923495a2f5ccc",
+      "size": 3642,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/xaerominimap.txt",
+      "editable": true
+    },
+    "config/xaeroworldmap.txt": {
+      "hash": "sha256:aa89828d22e9746ef68f3d3f051705672607727d2e104de0938730792b168986",
+      "size": 1220,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/2/config/xaeroworldmap.txt",
+      "editable": true
+    },
     "emotes/arm_dance.json": {
       "hash": "sha256:db83909428aee5f53f7c859615986f9a5f3763678692ee1a731fd48dd104eddd",
       "size": 62793,
