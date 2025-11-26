@@ -62,7 +62,7 @@
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/loader/versions/truenomodpack-depresivos2k25-1.20.1/truenomodpack-depresivos2k25-1.20.1.json"
     }
   },
-  "files": {
+    "files": {
     "config/craftpresence.json": {
       "hash": "sha256:2d1842fc1720e64f5100d8d2a343d05c70c6cbe5a7eb90aaed460317251bfc33",
       "size": 4549,
@@ -178,7 +178,7 @@
       "editable": true
     },
     "config/fancymenu/customization/drippy_loading_overlay_layout.txt": {
-      "hash": "sha256:42ca975ac2cf09091a50be235215aeab67925a336f7c09442de5356841a6c971",
+      "hash": "sha256:708887e3d33e6d9882d673cd616843af62c9042e5c378ff79a0131254a3f29a8",
       "size": 8239,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1.0.0/config/fancymenu/customization/drippy_loading_overlay_layout.txt",
       "editable": true
@@ -190,8 +190,8 @@
       "editable": true
     },
     "config/fancymenu/customization/truenomodpack_outdated_layout.txt": {
-      "hash": "sha256:a2eb5e45e03276a5a32e6a64e25cc11b280233072e7adbcc338bcf32cbeec1de",
-      "size": 10328,
+      "hash": "sha256:4245356ecd8a9c8a4fd42430b31ddb928169ec73f9c66e21e598e085ba141d5e",
+      "size": 10546,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1.0.0/config/fancymenu/customization/truenomodpack_outdated_layout.txt",
       "editable": true
     },
@@ -9181,6 +9181,12 @@
       "hash": "sha256:037b784dc121166a510c324575685aa156c8368cffc19866765dcd7ee20cc25d",
       "size": 17848630,
       "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1.0.0/mods/deeperdarker-fabric-1.20-1.3.3.jar",
+      "editable": false
+    },
+    "mods/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar": {
+      "hash": "sha256:a89061d926cb75ae417bfafaee560e80350deb13f0a5404c938860ed373c3254",
+      "size": 230397,
+      "url": "https://download.eltrueno.es/truenomodpack/depresivos2k25/version/1.0.0/mods/drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
       "editable": false
     },
     "mods/emi-1.1.18+1.20.1+fabric.jar": {
